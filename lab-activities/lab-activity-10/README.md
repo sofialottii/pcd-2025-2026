@@ -8,7 +8,7 @@ v1.0.0-20260417
 
 - Discussing solutions the `Exchanging Values Problem` (presented in previous lab) 
 
-### Actor Programming with Akka
+### Actor Programming
 
 By N. Farabegoli (tutor of the course)
 
