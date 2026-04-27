@@ -10,7 +10,12 @@ v1.0.0-20260417
 
 ### Actor Programming with Akka
 
-- By N. Farabegoli (tutor of the course)
+By N. Farabegoli (tutor of the course)
+
+- [Slides](https://github.com/nicolasfara/seminar-pcd-actor-pekko-basics/releases/latest)
+- [Code](https://github.com/nicolasfara/seminar-pcd-actor-pekko-code)
+
+
 
 
 
